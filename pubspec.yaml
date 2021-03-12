@@ -24,6 +24,17 @@ dependencies:
   flutter:
     sdk: flutter
 
+  google_fonts: ^2.0.0
+  charts_flutter: ^0.10.0
+  country_state_city_picker: ^1.2.7
+  firebase_auth: ^1.0.1
+  firebase_core: ^1.0.1
+  flutter_map:
+  cloud_firestore: ^1.0.1
+  flutter_spinkit: ^4.1.2+1
+  carousel_slider: ^2.3.1
+  provider: ^4.3.2+3
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
